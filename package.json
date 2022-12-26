@@ -1,0 +1,14 @@
+{
+  "name": "acme-exercise-ioet",
+  "version": "1.0.0",
+  "description": "ACME Employee Matching Schedules",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "Orlin Hernandez",
+  "license": "ISC",
+  "dependencies": {
+    "jest": "^29.1.1"
+  }
+}
