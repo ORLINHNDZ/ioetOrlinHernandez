@@ -30,7 +30,7 @@ OUTPUT:
 RENE-ASTRID: 3
 
 ## Overview
-For this challenge I decided to go for a JavaScript alternative as my main tech and JEST library for testing purposes.
+For this challenge I decided to go for a JavaScript alternative as my main tech and JEST dependency for testing purposes.
 
 
 ## Architecture
@@ -39,7 +39,7 @@ For this challenge I decided to go for a JavaScript alternative as my main tech 
 * README.md
 * app.js main executable
 * schedule.txt mock data
-* testingData.txt mock set of data for JEST testing library
+* testingData.txt mock set of data for JEST testing cases
 * package.json
 
 ## Approach
@@ -54,7 +54,7 @@ to re-organize my main task into samller inheritable functions.
   Evaluate how many times schedules are equal or within acceptable time frames.
   
 * stringifyData.js:
-  fs library from javascript in order to read .txt and converted into a utf-8 string.
+  fs dependency from NodeJs in order to read .txt and converted into a utf-8 string.
 
 ## Methodology
 This solution was developed under clean code patterns such as:
