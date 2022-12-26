@@ -64,7 +64,7 @@ This solution was developed under clean code patterns such as:
 
 ## Instructions to Run the Program Locally
 In order to execute the solution is necessary to previously install node and npm latest versions.
-*Install dependencies:
+* Install dependencies:
 ```npm install```
 * run main app: 
 ```node app.js```
